@@ -1,0 +1,103 @@
+.mywork {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+  margin: 80px 160px;
+}
+
+.mywork-title {
+  position: relative;
+}
+
+.mywork-title h2 {
+  padding: 0 30px;
+  font-size: 41px;
+  font-weight: 600px;
+}
+
+.mywork-title p {
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+  background: linear-gradient(267deg, #994e0d 0.36%, #b923e1 102.06%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.mywork-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+}
+
+.mywork-container img {
+  box-sizing: border-box;
+  width: 310px;
+  height: 240px;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.mywork-container img:hover {
+  transform: scale(1.1);
+  border: 4px solid #ff00ff;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+.mywork-showmore {
+  display: flex;
+  gap: 10px;
+  border-radius: 50px;
+  border: 2px solid white;
+  padding: 15px 30px;
+  font-size: 19px;
+  font-weight: 500;
+  margin-bottom: 80px;
+  transition: 0.6s;
+  cursor: pointer;
+}
+
+.mywork-showmore:hover {
+  gap: 30px;
+  transition: 0.6s;
+}
+
+@media (max-width: 768px) {
+  .mywork {
+    gap: 50px;
+    margin: 50px 40px;
+    align-items: start;
+  }
+
+  .mywork-title h2 {
+    padding: 0;
+    font-size: 33px;
+  }
+
+  .mywork-title .splash {
+    right: -20px;
+    font-size: 50px;
+  }
+
+  .mywork-container {
+    grid-template-columns: 1fr 1fr;
+    gap: 25px;
+  }
+
+  .mywork-container img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .mywork-showmore {
+    padding: 10px 15px;
+    font-size: 15px;
+    margin: 30px auto;
+    cursor: pointer;
+  }
+}
