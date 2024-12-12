@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.49c6872b.css",
+    "main.js": "/my-portfolio/static/js/main.e939da72.js",
+    "static/media/project-3.jpg": "/my-portfolio/static/media/project-3.7d7f6de617028f83606b.jpg",
+    "static/media/project-5.jpg": "/my-portfolio/static/media/project-5.7fecfeebf6cbecba1b28.jpg",
+    "static/media/project-2.jpg": "/my-portfolio/static/media/project-2.f207b7316af38704670e.jpg",
+    "static/media/project-1.jpg": "/my-portfolio/static/media/project-1.198732630303bd81136b.jpg",
+    "static/media/project-6.jpg": "/my-portfolio/static/media/project-6.127024fc708d7b465758.jpg",
+    "static/media/project-4.jpg": "/my-portfolio/static/media/project-4.dc5a406c8668bbbae852.jpg",
+    "static/media/sam-pic.jpg": "/my-portfolio/static/media/sam-pic.ada57f1fd17c5de2f92c.jpg",
+    "static/media/sam-logo.jpg": "/my-portfolio/static/media/sam-logo.3175728af9b652f8a1e8.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/cancel.webp": "/my-portfolio/static/media/cancel.e1757442054772f4998a.webp",
+    "static/media/icon.webp": "/my-portfolio/static/media/icon.aaf5aa438fe4d41da4ea.webp",
+    "static/media/menu.webp": "/my-portfolio/static/media/menu.3b33d26c93e0c71d9136.webp",
+    "main.49c6872b.css.map": "/my-portfolio/static/css/main.49c6872b.css.map",
+    "main.e939da72.js.map": "/my-portfolio/static/js/main.e939da72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49c6872b.css",
+    "static/js/main.e939da72.js"
+  ]
+}
