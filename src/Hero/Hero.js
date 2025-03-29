@@ -11,12 +11,12 @@ const Hero = () => {
         style={{ width: "180px", height: "180px", borderRadius: "100px" }}
       />
       <h1>
-        <span>I'm Samuel Dumbiri,</span> frontend/blockchain developer based in
-        Nigeria.
+        <span>I'm Samuel Dumbiri,</span> frontend developer and web designer
+        based in Nigeria.
       </h1>
       <p>
-        I am a front developer and i have worked on so many project and i also
-        been on so may joint web3 projects.
+        I’m ready to bring your creative ideas to life and make your business
+        advertisements stand out. Let’s create something special together!
       </p>
       <div className="hero-action">
         <div className="hero-connect">

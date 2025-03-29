@@ -22,14 +22,12 @@ const About = () => {
         <div className="about-right">
           <div className="about-para">
             <p>
-              {" "}
-              I am a front developer and i have worked on so many project and i
-              also been on so may joint web3 projects.
-            </p>
-            <p>
-              {" "}
-              I am a front developer and i have worked on so many project and i
-              also been on so may joint web3 projects.
+              I am a passionate Front-End Developer and Graphic Designer with a
+              strong foundation in creating visually stunning and highly
+              functional digital experiences. With a diverse portfolio of
+              projects ranging from dynamic websites to captivating graphic
+              designs, I strive to bring creativity and innovation to every
+              project I work on.
             </p>
           </div>
           <div className="about-skills">

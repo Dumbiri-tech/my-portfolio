@@ -15,8 +15,9 @@ const Footer = () => {
           />
           <p>
             {" "}
-            I am a front developer and i have worked on so many project and i
-            also been on so may joint web3 projects.
+            I’m ready to bring your creative ideas to life and make your
+            business advertisements stand out. Let’s create something special
+            together!
           </p>
         </div>
         <div className="footer-top-right">
